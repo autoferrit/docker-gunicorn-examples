@@ -45,4 +45,4 @@ a bug
 
 `Docker Supervisor Issues <https://github.com/SkiftCreative/docker-supervisor/issues>`_
 
-`Docker Gunicorn Issues <https://github.com/SkiftCreative/docker-gunicorn/issues>`_ s
+`Docker Gunicorn Issues <https://github.com/SkiftCreative/docker-gunicorn/issues>`_
