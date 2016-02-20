@@ -1,6 +1,6 @@
 import hug
 
-from .resources import part_1
+from resources import part_1, part_2
 
 
 @hug.get('/')
@@ -10,4 +10,4 @@ def say_hi():
 
 @hug.extend_api()
 def with_other_apis():
-    return [part_1]
+    return [part_1, part_2]
