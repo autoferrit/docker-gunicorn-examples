@@ -44,4 +44,5 @@ case and I would love to add it. I am also open to submitting issues if you find
 a bug
 
 `Docker Supervisor Issues <https://github.com/SkiftCreative/docker-supervisor/issues>`_
-`Docker Gunicorn Issues <https://github.com/SkiftCreative/docker-gunicorn/issues>`_
+
+`Docker Gunicorn Issues <https://github.com/SkiftCreative/docker-gunicorn/issues>`_ s
